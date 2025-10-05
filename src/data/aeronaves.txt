@@ -1,0 +1,7 @@
+////////
+codigo : 1
+modelo : guerra
+tipo : Comercial
+capacidade : 20
+alcance : 2000
+

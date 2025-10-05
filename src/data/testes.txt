@@ -1,0 +1,4 @@
+////////
+aeronaveCodigo : 1
+tipo : Aerodinamico
+resultado : Aprovado

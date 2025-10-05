@@ -1,0 +1,6 @@
+////////
+aeronaveCodigo : 1
+nome : pe�a
+tipo : Importada
+fornecedor : 
+status : Em transporte

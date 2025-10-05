@@ -1,0 +1,6 @@
+////////
+aeronaveCodigo : 1
+nome : Etapa incial
+prazo : 20/05/2026
+status : Pendente
+funcionarios : 

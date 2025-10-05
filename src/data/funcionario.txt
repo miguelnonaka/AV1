@@ -1,0 +1,24 @@
+////////
+id : 1
+nome : Miguel
+telefone : 99999-1111
+endereco : Rua A
+usuario : miguel
+senha : 123
+nivelPermissao : Administrador
+////////
+id : 2
+nome : João
+telefone : 98888-2222
+endereco : Rua B
+usuario : joao
+senha : 456
+nivelPermissao : Engenheiro
+////////
+id : 3
+nome : Maria
+telefone : 97777-3333
+endereco : Rua C
+usuario : maria
+senha : 789
+nivelPermissao : Operador

@@ -1,0 +1,19 @@
+===== RELATÓRIO DE ENTREGA =====
+Aeronave: 1 - guerra
+Tipo: Comercial
+Capacidade: 20
+Alcance: 2000
+
+Cliente: Emra
+Data de Entrega: 2056-10-08
+
+== Etapas ==
+1. Etapa incial | Prazo: 20/05/2026 | Status: Pendente
+
+== Peças ==
+- pe�a | Tipo: Importada | Fornecedor:  | Status: Em transporte
+
+== Testes ==
+- Aerodinamico => Aprovado
+
+===============================
