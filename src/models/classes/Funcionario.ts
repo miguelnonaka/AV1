@@ -84,9 +84,6 @@ export default class Funcionario {
                     ? (obj["nivelPermissao"] as NivelPerm): NivelPerm.OPERADOR)
             )
         })
-        /*console.log(data.length + " funcionarios foram carregados.")
-        for(const funcionarios of this.funcionarios){
-            funcionarios.printFunc()
-        }*/
+        
     }
 }

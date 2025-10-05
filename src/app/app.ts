@@ -16,7 +16,7 @@ import { TipoTeste } from "../models/enums/TipoTeste";
 import { ResultadoTeste } from "../models/enums/ResultadoTeste";
 
 function limparTela() {process.stdout.write('\x1Bc'); console.clear(); }
-function pause() { readlineSync.question("\nPressione ENTER para continuar..."); }
+function pause() { readlineSync.question("\nPressione ENTER para continuar"); }
 
 function autenticar(): Funcionario | null {
     const funcs = new Funcionario("", "", "", "", "", "", NivelPerm.OPERADOR);
